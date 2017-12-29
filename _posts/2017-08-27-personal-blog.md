@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Personal Blog!"
-date:   2017-09-28 23:03:11 -0500
+date:   2017-12-29 13:00:00 -0500
 categories: programacion
 ---
-En este blog podras encontrar cossas muy interesantes acerca del mundo de la programación
+Bienvenido a mi web. Mi nombre es Daniel Antonio Yepes Ahumedo estudiante de ultimo semestre de Ingeniería  de sistemas, desarrollador web desde hace más de dos años.
