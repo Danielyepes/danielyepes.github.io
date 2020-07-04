@@ -16,7 +16,7 @@
 title: Daniel Yepes
 email: danielyepesahumedo@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a Software Programmer in Java,Php,Javascript and I have knowledge in HTML,CSS.
+  I'm a Software Programmer in JAVA,PHP,JS and I have knowledge in HTML,CSS.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
