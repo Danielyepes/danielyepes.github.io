@@ -1,3 +1,3 @@
 # danielyepes.github.io
 
-This is my prsonal blog with Ruby and Jekyll in Github
+This is my prsonal site with Ruby and Jekyll in Github
