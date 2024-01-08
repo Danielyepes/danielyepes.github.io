@@ -2,4 +2,4 @@
 
 This is my prsonal site with Ruby and Jekyll in Github
 
-[danielyepes.github.com]show 
+> [a link](https://danielyepes.github.com) <--show 
